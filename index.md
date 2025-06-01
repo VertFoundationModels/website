@@ -1,5 +1,6 @@
 n**VerticalLM Summit 2025**  
  *A Colloquium on Domain-Specific Foundation Models*
+ 
  *Date TBD:  likely October 2025 at Stanford or elsewhere in the Bay Area*
 
 **Introduction & Rationale**  
