@@ -1,5 +1,6 @@
-**VerticalLM Summit 2025**  
+n**VerticalLM Summit 2025**  
  *A Colloquium on Domain-Specific Foundation Models*
+ *Date TBD:  likely October 2025 at Stanford or elsewhere in the Bay Area*
 
 **Introduction & Rationale**  
  As foundation models continue to reshape the AI landscape, a new wave of **vertical**, domain-tailored variants has emerged. Examples include:
@@ -44,7 +45,7 @@ These vertical foundation models consistently demonstrate superior **generalizat
 * Curate panel discussions and poster sessions based on accepted papers
 
 **Get Involved**  
-If you’re passionate about advancing domain-tailored AI and shaping the future of vertical foundation models, we welcome you to serve on one or both committees. Please send a brief statement of interest and relevant experience to **info@verticalFoundation.org** by **July 15, 2025**.
+If you’re passionate about advancing domain-tailored AI and shaping the future of vertical foundation models, we welcome you to serve on one or both committees. Please send a brief statement of interest and relevant experience to **evan@deeptempo.ai** by **July 15, 2025**.
 
 **Conclusion**  
 By establishing a dedicated gathering for vertical foundation models, the Vertical Foundation Model Summit 2025 aims to catalyze cross-sector collaboration, accelerate innovation, and promote responsible deployment of highly specialized AI systems that drive real-world impact. We look forward to your contributions in making this event a landmark for the next generation of domain-centric AI.
