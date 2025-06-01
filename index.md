@@ -1,7 +1,9 @@
-n**VerticalLM Summit 2025**  
+**VerticalLM Summit 2025**  
  *A Colloquium on Domain-Specific Foundation Models*
  
  *Date TBD:  likely October 2025 at Stanford or elsewhere in the Bay Area*
+
+ *Organizers needed.  Please reach out.  Feel free to make PRs to this site as well.*
 
 **Introduction & Rationale**  
  As foundation models continue to reshape the AI landscape, a new wave of **vertical**, domain-tailored variants has emerged. Examples include:
